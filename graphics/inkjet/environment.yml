@@ -1,0 +1,12 @@
+name: dj-inkjet
+dependencies:
+  - python=3.7
+  - matplotlib
+  - numpy
+  - pillow
+  - pip
+  - scikit-image
+  - scipy
+  - pip:
+#      - pycairo
+      - https://download.lfd.uci.edu/pythonlibs/q4hpdf1k/pycairo-1.18.2-cp37-cp37m-win_amd64.whl

@@ -1,0 +1,8 @@
+name: dj-graphics
+dependencies:
+  - python>=3.7
+  - matplotlib
+  - numpy
+  - pillow
+  - scikit-image
+  - scipy
